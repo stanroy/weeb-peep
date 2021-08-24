@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/upcomingAnimeFragment">
+
+    <fragment
+        android:id="@+id/upcomingAnimeFragment"
+        android:name="com.stanroy.weebpeep.presentation.view.UpcomingAnimeFragment"
+        android:label="fragment_upcoming_anime"
+        tools:layout="@layout/fragment_upcoming_anime" />
+    <fragment
+        android:id="@+id/favouriteAnimeFragment"
+        android:name="com.stanroy.weebpeep.presentation.view.FavouriteAnimeFragment"
+        android:label="fragment_saved_anime"
+        tools:layout="@layout/fragment_fav_anime" />
+</navigation>

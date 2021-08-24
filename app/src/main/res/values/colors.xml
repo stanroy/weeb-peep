@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- LIGHT MODE -->
+    <color name="blue_munsell">#1B9AAA</color>
+    <color name="bone">#DDDBCB</color>
+    <color name="alabaster">#F5F1E3</color>
+
+
+    <!-- BASIC COLORS -->
+    <color name="black">#050505</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="subtle_red">#D53232</color>
+    <color name="error_red">#FF0000</color>
+</resources>

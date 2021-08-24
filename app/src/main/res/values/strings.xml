@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WeebPeep</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="upcoming_anime">UPCOMING</string>
+    <string name="fav_anime">FAVOURITE</string>
+    <string name="ab_refresh">Refresh</string>
+    <string name="preference_weeb_peep">"com.stanroy.weebpeep.PREFERENCE_WEEB_PEEP"</string>
+    <string name="preference_time_pressed">TimePressed</string>
+    <string name="preference_mal_message">MalMessageDelivered</string>
+    <string name="fab_add_anime">ADD ANIME</string>
+    <string name="iv_cover_art_desc">Anime Cover Art</string>
+    <string name="refresh_timeout_message">Wait a little longer before refreshing</string>
+    <string name="ERR_UNKNOWN_MSG">UNKNOWN ERROR</string>
+    <string name="web_page_info_msg">Click on anime\'s cover art to open up MAL web page</string>
+    <string name="iv_no_wifi_desc">No WiFi Connection</string>
+
+</resources>
