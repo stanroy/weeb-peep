@@ -23,6 +23,17 @@ Second screen shows previously saved anime. User is still able to open MAL webpa
 * [Custom Tabs](https://developer.chrome.com/docs/android/custom-tabs/overview/) (opening MAL web page)
 
 
+## Requirements
+
+- Android 8.1+
+
+## Installation
+
+#### APK
+
+APK file of this application is available in releases tab
+
+
 
 ## App look
 
@@ -30,6 +41,9 @@ Second screen shows previously saved anime. User is still able to open MAL webpa
 
 <img src="https://i.ibb.co/d0d9jDg/Screenshot-20210801-203157-Weeb-Peep.pngg" width="300px" />
 
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
